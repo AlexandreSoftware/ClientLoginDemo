@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLoginDemoApi", "Clien
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLoginDemoTests", "ClientLoginDemoTests\ClientLoginDemoTests.csproj", "{8E518575-3D14-4E53-9A03-08F5F571DFC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLoginDemoServices", "ClientLoginDemoServices\ClientLoginDemoServices.csproj", "{98164D7A-616A-4141-BDE0-D89D2C61FD4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientLoginDemoRepository", "ClientLoginDemoRepository\ClientLoginDemoRepository.csproj", "{7856F779-23FF-4315-9DA3-DA5D7F39D61C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{8E518575-3D14-4E53-9A03-08F5F571DFC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E518575-3D14-4E53-9A03-08F5F571DFC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E518575-3D14-4E53-9A03-08F5F571DFC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98164D7A-616A-4141-BDE0-D89D2C61FD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98164D7A-616A-4141-BDE0-D89D2C61FD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98164D7A-616A-4141-BDE0-D89D2C61FD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98164D7A-616A-4141-BDE0-D89D2C61FD4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7856F779-23FF-4315-9DA3-DA5D7F39D61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7856F779-23FF-4315-9DA3-DA5D7F39D61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7856F779-23FF-4315-9DA3-DA5D7F39D61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7856F779-23FF-4315-9DA3-DA5D7F39D61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
